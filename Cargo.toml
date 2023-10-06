@@ -1,0 +1,2 @@
+[workspace]
+members = ["tokio-futures", "tokio-sync", "tokio-net", "tokio-task", "tokio-fs", "tokio-process", "tokio-signal", "tokio-time", "tokio-test"]
